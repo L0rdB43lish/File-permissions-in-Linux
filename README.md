@@ -1,6 +1,3 @@
-# Intro
-This activity was assigned to us as part of the Google Cybersecurity Professional Certificate program.
-
 # Project description
 The focus of this project is to analyse existing file system permissions and ensure they align with the required authorizations. If they do not, the permissions should be adjusted to grant access to authorized users and remove any unauthorized access.
 
